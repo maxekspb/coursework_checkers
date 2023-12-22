@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="checkers.AI.MinMax">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAQAAAAAEAAAAAEAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AI\MinMax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="checkers.Classes.Board" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="checkers.Classes.Board.Pieces" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\Board.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAhAgAAIAAAAAAgAIAAAAAASMARgCACAAQAREQABA=</HashCode>
+      <FileName>Classes\Board.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="checkers.Classes.Player" BaseTypeListCollapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAABggAAAAAAAQAAAAAACAAAAgIAAAAARA=</HashCode>
+      <FileName>Classes\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="checkers.Classes.Setting">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAYAAIAAAAAQAAAAAAAABAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Setting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="checkers.CheckersForm">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAhAAEAQACAEABQQEADAgAASkBACAAAEgEACAYAQALQ=</HashCode>
+      <FileName>Forms\CheckersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="checkers.SettingsForm">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AQDAGECCCCAAIhAAAACAAGACAAQAAgACCGBIAAAAAAA=</HashCode>
+      <FileName>Forms\SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
